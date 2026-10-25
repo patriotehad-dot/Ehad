@@ -1,0 +1,11 @@
+{
+  "iterm2": {
+    "command": "python3",
+    "args": [
+      "/Users/happyhawking/Documents/Projects/Current/coder/iterm2_mcp_server.py"
+    ],
+    "env": {
+      "PYTHONPATH": "/Users/happyhawking/Documents/Projects/Current/coder"
+    }
+  }
+} 
